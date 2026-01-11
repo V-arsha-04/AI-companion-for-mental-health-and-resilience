@@ -1,0 +1,26 @@
+AI-Companion-Mental-Health/
+│
+├── backend/
+│   ├── src/main/java/com/aicompanion/
+│   │   ├── controller/
+│   │   │   └── ChatController.java
+│   │   ├── service/
+│   │   │   └── AIService.java
+│   │   ├── model/
+│   │   │   └── ChatRequest.java
+│   │   ├── model/
+│   │   │   └── ChatResponse.java
+│   │   └── AiCompanionApplication.java
+│   │
+│   ├── src/main/resources/
+│   │   └── application.properties
+│   │
+│   └── pom.xml
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── README.md
+└── .gitignore
